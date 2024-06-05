@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="top10shows">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="show">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="rank" type="xs:int"/>
+                            <xs:element name="name" type="xs:string"/>
+                            <xs:element name="release" type="xs:string"/>
+                            <xs:element name="episodes" type="xs:int"/>
+                            <xs:element name="rating" type="xs:float"/>
+                            <xs:element name="parentalGuide" type="xs:string"/>
+                            <xs:element name="cast">
+                                <xs:complexType>
+                                    <xs:all>
+                                        <xs:element name="actorName" type="xs:string" maxOccurs="unbounded"/>
+                                    </xs:all>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

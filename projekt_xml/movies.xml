@@ -1,0 +1,152 @@
+<Top10Movies>
+    <Movie>
+        <Rank>1</Rank>
+        <Name>The Shawshank Redemption</Name>
+        <Release>1994</Release>
+        <MovieDuration>2h 22m</MovieDuration>
+        <Rating>9.3</Rating>
+        <ParentalGuide>R</ParentalGuide>
+        <Cast>
+            <ActorName>Tim Robbins</ActorName>
+            <ActorName>Morgan Freeman</ActorName>
+            <ActorName>Bob Gunton</ActorName>
+            <ActorName>William Sadler</ActorName>
+            <ActorName>Clancy Brown</ActorName>
+        </Cast>
+    </Movie>
+    <Movie>
+        <Rank>2</Rank>
+        <Name>The Godfather</Name>
+        <Release>1972</Release>
+        <MovieDuration>2h 55m</MovieDuration>
+        <Rating>9.2</Rating>
+        <ParentalGuide>R</ParentalGuide>
+        <Cast>
+            <ActorName>Marlon Brando</ActorName>
+            <ActorName>Al Pacino</ActorName>
+            <ActorName>James Caan</ActorName>
+            <ActorName>Richard S. Castellano</ActorName>
+            <ActorName>Robert Duvall</ActorName>
+        </Cast>
+    </Movie>
+    <Movie>
+        <Rank>3</Rank>
+        <Name>The Dark Knight</Name>
+        <Release>2008</Release>
+        <MovieDuration>2h 32m</MovieDuration>
+        <Rating>9.0</Rating>
+        <ParentalGuide>PG-13</ParentalGuide>
+        <Cast>
+            <ActorName>Christian Bale</ActorName>
+            <ActorName>Heath Ledger</ActorName>
+            <ActorName>Aaron Eckhart</ActorName>
+            <ActorName>Michael Caine</ActorName>
+            <ActorName>Maggie Gyllenhaal</ActorName>
+        </Cast>
+    </Movie>
+    <Movie>
+        <Rank>4</Rank>
+        <Name>The Godfather Part II</Name>
+        <Release>1974</Release>
+        <MovieDuration>3h 22m</MovieDuration>
+        <Rating>9.0</Rating>
+        <ParentalGuide>R</ParentalGuide>
+        <Cast>
+            <ActorName>Al Pacino</ActorName>
+            <ActorName>Robert Duvall</ActorName>
+            <ActorName>Diane Keaton</ActorName>
+            <ActorName>Robert De Niro</ActorName>
+            <ActorName>John Cazale</ActorName>
+        </Cast>
+    </Movie>
+    <Movie>
+        <Rank>5</Rank>
+        <Name>12 Angry Men</Name>
+        <Release>1957</Release>
+        <MovieDuration>1h 36m</MovieDuration>
+        <Rating>9.0</Rating>
+        <ParentalGuide>Approved</ParentalGuide>
+        <Cast>
+            <ActorName>Martin Balsam</ActorName>
+            <ActorName>John Fiedler</ActorName>
+            <ActorName>Lee J. Cobb</ActorName>
+            <ActorName>E.G. Marshall </ActorName>
+            <ActorName>Jack Klugman</ActorName>
+        </Cast>
+    </Movie>
+    <Movie>
+        <Rank>6</Rank>
+        <Name>Schindler's List</Name>
+        <Release>1993</Release>
+        <MovieDuration>3h 15m</MovieDuration>
+        <Rating>9.0</Rating>
+        <ParentalGuide>R</ParentalGuide>
+        <Cast>
+            <ActorName>Liam Neeson</ActorName>
+            <ActorName>Ben Kingsley</ActorName>
+            <ActorName>Ralph Fiennes</ActorName>
+            <ActorName>Caroline Goodall</ActorName>
+            <ActorName>Jonathan Sagall</ActorName>
+        </Cast>
+    </Movie>
+    <Movie>
+        <Rank>7</Rank>
+        <Name>The Lord of the Rings: The Return of the King</Name>
+        <Release>2003</Release>
+        <MovieDuration>3h 21m</MovieDuration>
+        <Rating>9.0</Rating>
+        <ParentalGuide>PG-13</ParentalGuide>
+        <Cast>
+            <ActorName>Viggo Mortensen</ActorName>
+            <ActorName>Orlando Bloom</ActorName>
+            <ActorName>John Rhys-Davies</ActorName>
+            <ActorName>Elijah Wood</ActorName>
+            <ActorName>Sean Astin</ActorName>
+        </Cast>
+    </Movie>
+    <Movie>
+        <Rank>8</Rank>
+        <Name>Pulp Fiction</Name>
+        <Release>1994</Release>
+        <MovieDuration>2h 34m</MovieDuration>
+        <Rating>8.9</Rating>
+        <ParentalGuide>R</ParentalGuide>
+        <Cast>
+            <ActorName>John Travolta</ActorName>
+            <ActorName>Samuel L. Jackson</ActorName>
+            <ActorName>Tim Roth</ActorName>
+            <ActorName>Uma Thurman</ActorName>
+            <ActorName>Bruce Willis</ActorName>
+        </Cast>
+    </Movie>
+    <Movie>
+        <Rank>9</Rank>
+        <Name>The Lord of the Rings: The Fellowship of the Ring</Name>
+        <Release>2001</Release>
+        <MovieDuration>2h 58m</MovieDuration>
+        <Rating>8.9</Rating>
+        <ParentalGuide>PG-13</ParentalGuide>
+        <Cast>
+            <ActorName>Viggo Mortensen</ActorName>
+            <ActorName>Orlando Bloom</ActorName>
+            <ActorName>John Rhys-Davies</ActorName>
+            <ActorName>Elijah Wood</ActorName>
+            <ActorName>Sean Astin</ActorName>
+        </Cast>
+    </Movie>
+    <Movie>
+        <Rank>10</Rank>
+        <Name>The Good, the Bad and the Ugly</Name>
+        <Release>1966</Release>
+        <MovieDuration>2h 58m</MovieDuration>
+        <Rating>8.8</Rating>
+        <ParentalGuide>R</ParentalGuide>
+        <Cast>
+            <ActorName>Clint Eastwood</ActorName>
+            <ActorName>Eli Wallach</ActorName>
+            <ActorName>Lee Van Cleef</ActorName>
+            <ActorName>Aldo Giufrè</ActorName>
+            <ActorName>Luigi Pistilli</ActorName>
+        </Cast>
+    </Movie>
+</Top10Movies>

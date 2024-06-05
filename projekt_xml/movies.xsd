@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Top10Movies">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="Movie" maxOccurs="10" minOccurs="1">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="Rank" type="xs:int"/>
+                            <xs:element name="Name" type="xs:string"/>
+                            <xs:element name="Release" type="xs:gYear"/>
+                            <xs:element name="MovieDuration" type="xs:string"/>
+                            <xs:element name="Rating" type="xs:float"/>
+                            <xs:element name="ParentalGuide" type="xs:string"/>
+                            <xs:element name="Cast">
+                                <xs:complexType>
+                                    <xs:all>
+                                        <xs:element name="ActorName" type="xs:string" maxOccurs="unbounded"/>
+                                    </xs:all>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

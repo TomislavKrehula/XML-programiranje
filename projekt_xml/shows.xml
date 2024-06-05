@@ -1,0 +1,151 @@
+<top10shows>
+    <show>
+        <rank>1</rank>
+        <name>Breaking Bad</name>
+        <release>2008 - 2013</release>
+        <episodes>62</episodes>
+        <rating>9.5</rating>
+        <parentalGuide>TV-MA</parentalGuide>
+        <cast>
+            <actorName>Bryan Cranston</actorName>
+            <actorName>Aaron Paul</actorName>
+            <actorName>Anna Gunn</actorName>
+            <actorName>Betsy Brandt</actorName>
+            <actorName>RJ Mitte</actorName>
+        </cast>
+    </show>
+    <show>
+        <rank>2</rank>
+        <name>Planet Earth II</name>
+        <release>2016</release>
+        <episodes>6</episodes>
+        <rating>9.5</rating>
+        <parentalGuide>TV-G</parentalGuide>
+        <cast>
+            <actorName>David Attenborough</actorName>
+            <actorName>Chaden Hunter</actorName>
+            <actorName>Gordon Buchanan</actorName>
+            <actorName>Michael J. Sanderson</actorName>
+            <actorName>Barrie Britton</actorName>
+        </cast>
+    </show>
+    <show>
+        <rank>3</rank>
+        <name>Planet Earth</name>
+        <release>2006</release>
+        <episodes>11</episodes>
+        <rating>9.4</rating>
+        <parentalGuide>TV-PG</parentalGuide>
+        <cast>
+            <actorName>Sigourney Weaver</actorName>
+            <actorName>David Attenborough</actorName>
+            <actorName>Nikolay Drozdov</actorName>
+            <actorName>Thomas Anguti Johnston</actorName>
+            <actorName>Sanae Ueda</actorName>
+        </cast>
+    </show>
+    <show>
+        <rank>4</rank>
+        <name>Band of Brothers</name>
+        <release>2001</release>
+        <episodes>10</episodes>
+        <rating>9.4</rating>
+        <parentalGuide>TV-MA</parentalGuide>
+        <cast>
+            <actorName>Scott Grimes</actorName>
+            <actorName>Damian Lewis</actorName>
+            <actorName>Ron Livingston</actorName>
+            <actorName>Shane Taylor</actorName>
+            <actorName>Donnie Wahlberg</actorName>
+        </cast>
+    </show>
+    <show>
+        <rank>5</rank>
+        <name>Chernobyl</name>
+        <release>2019</release>
+        <episodes>5</episodes>
+        <rating>9.3</rating>
+        <parentalGuide>TV-MA</parentalGuide>
+        <cast>
+            <actorName>Jessie Buckley</actorName>
+            <actorName>Jared Harris</actorName>
+            <actorName>Stellan Skarsgard</actorName>
+            <actorName>Adam Nagaitis</actorName>
+            <actorName>Emily Watson</actorName>
+        </cast>
+    </show>
+    <show>
+        <rank>6</rank>
+        <name>The Wire</name>
+        <release>2002 - 2008</release>
+        <episodes>60</episodes>
+        <rating>9.3</rating>
+        <parentalGuide>TV-MA</parentalGuide>
+        <cast>
+            <actorName>Dominic West</actorName>
+            <actorName>Lance Reddick</actorName>
+            <actorName>Sonja Sohn</actorName>
+            <actorName>Wendell Pierce</actorName>
+            <actorName>John Doman</actorName>
+        </cast>
+    </show>
+    <show>
+        <rank>7</rank>
+        <name>Avatar: The Last Airbender</name>
+        <release>2005 - 2008</release>
+        <episodes>62</episodes>
+        <rating>9.3</rating>
+        <parentalGuide>TV-Y7-FV</parentalGuide>
+        <cast>
+            <actorName>Dee Bradley Baker</actorName>
+            <actorName>Zach Tyler Eisen</actorName>
+            <actorName>Mae Whitman</actorName>
+            <actorName>Jack De Sena</actorName>
+            <actorName>Dante Basco</actorName>
+        </cast>
+    </show>
+    <show>
+        <rank>8</rank>
+        <name>Blue Planet II</name>
+        <release>2017</release>
+        <episodes>7</episodes>
+        <rating>9.3</rating>
+        <parentalGuide>TV-G</parentalGuide>
+        <cast>
+            <actorName>David Attenborough</actorName>
+            <actorName>Peter Drost</actorName>
+            <actorName>Roger Munns</actorName>
+            <actorName>Roger Horrocks</actorName>
+        </cast>
+    </show>
+    <show>
+        <rank>9</rank>
+        <name>The Sopranos</name>
+        <release>1999 - 2007</release>
+        <episodes>7</episodes>
+        <rating>9.2</rating>
+        <parentalGuide>TV-G</parentalGuide>
+        <cast>
+            <actorName>James Gandolfini</actorName>
+            <actorName>Lorraine Bracco</actorName>
+            <actorName>Edie Falco</actorName>
+            <actorName>Michael Imperioli</actorName>
+            <actorName>Steven Van Zandt</actorName>
+        </cast>
+    </show>
+    <show>
+        <rank>10</rank>
+        <name>Cosmos: A Spacetime Odyssey</name>
+        <release>2014</release>
+        <episodes>13</episodes>
+        <rating>9.2</rating>
+        <parentalGuide>TV-PG</parentalGuide>
+        <cast>
+            <actorName>Neil deGrasse Tyson</actorName>
+            <actorName>Christopher Emerson</actorName>
+            <actorName>Keythe Farley</actorName>
+            <actorName>Piotor Michael</actorName>
+            <actorName>Enn Reitel</actorName>
+        </cast>
+    </show>
+</top10shows>
